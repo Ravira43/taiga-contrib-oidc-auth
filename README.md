@@ -1,10 +1,7 @@
 Taiga contrib Fedora OIDC auth
 ==============================
 
-&gt; **READ THIS FIRST!**: We recently announced Taiga plans for the future and they greatly affect how we manage this repository and the current Taiga 6 release. Check it [here](https://blog.taiga.io/announcing_taiganext.html).
-
-The Taiga plugin for Fedora's OIDC (OpenID Connect) provider. It has been
-forked off https://github.com/fedora-infra/taiga-contrib-fas-openid-auth.
+&gt; **READ THIS FIRST!**: Due to the fact that the oficial oidc plugin (https://github.com/taigaio/taiga-contrib-oidc-auth)  is not maintained anymore, I wanted to create a working alternative
 
 Flow diagram
 ------------
